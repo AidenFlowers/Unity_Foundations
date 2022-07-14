@@ -5,21 +5,197 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637933925339748720
-    m_Hash: 3815907590
+      ticks: 637933942163883138
+    m_Hash: 3489410069
   m_LockFileStatus:
     m_FilePath: C:/Users/1Blue/Unity_Foundations/Pair_Proj_2/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637933925449299387
-    m_Hash: 4293963537
+      ticks: 637933942164007592
+    m_Hash: 334622032
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
+    - packageId: com.unity.2d.animation@5.0.10
+      testable: 0
+      isDirectDependency: 1
+      version: 5.0.10
+      source: 1
+      resolvedPath: C:\Users\1Blue\Unity_Foundations\Pair_Proj_2\Library\PackageCache\com.unity.2d.animation@5.0.10
+      assetPath: Packages/com.unity.2d.animation
+      name: com.unity.2d.animation
+      displayName: 2D Animation
+      author:
+        name: 
+        email: 
+        url: 
+      category: 2D
+      type: 
+      description: 2D Animation provides all the necessary tooling and runtime components
+        for skeletal animation using Sprites.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.15-preview.1
+        - 1.0.15-preview.2
+        - 1.0.15-preview.3
+        - 1.0.15-preview.4
+        - 1.0.15-preview.5
+        - 1.0.16-preview
+        - 1.0.16-preview.1
+        - 1.0.16-preview.2
+        - 2.0.0-preview.1
+        - 2.0.0-preview.2
+        - 2.0.0-preview.3
+        - 2.1.0-preview.1
+        - 2.1.0-preview.2
+        - 2.1.0-preview.4
+        - 2.1.0-preview.5
+        - 2.1.0-preview.7
+        - 2.2.0-preview.1
+        - 2.2.0-preview.4
+        - 2.2.0-preview.5
+        - 2.2.1-preview.1
+        - 2.2.1-preview.2
+        - 3.0.2
+        - 3.0.3
+        - 3.0.4
+        - 3.0.5
+        - 3.0.6
+        - 3.0.8
+        - 3.1.0
+        - 3.1.1
+        - 3.2.1
+        - 3.2.2
+        - 3.2.3
+        - 3.2.4
+        - 3.2.5
+        - 3.2.6
+        - 3.2.9
+        - 3.2.10
+        - 3.2.11
+        - 3.2.13
+        - 3.2.14
+        - 3.2.15
+        - 3.2.16
+        - 3.2.17
+        - 3.2.18
+        - 4.0.0
+        - 4.0.1
+        - 4.1.0
+        - 4.1.1
+        - 4.2.1
+        - 4.2.2
+        - 4.2.3
+        - 4.2.4
+        - 4.2.5
+        - 4.2.6
+        - 4.2.8
+        - 5.0.0
+        - 5.0.1
+        - 5.0.2
+        - 5.0.3
+        - 5.0.4
+        - 5.0.5
+        - 5.0.6
+        - 5.0.7
+        - 5.0.8
+        - 5.0.9
+        - 5.0.10
+        - 5.1.0
+        - 5.1.1
+        - 5.2.0
+        - 5.2.1
+        - 5.2.3
+        - 6.0.0-pre.1
+        - 6.0.0-pre.2
+        - 6.0.1
+        - 6.0.3
+        - 6.0.4
+        - 6.0.5
+        - 6.0.7
+        - 7.0.0-pre.2
+        - 7.0.0-pre.3
+        - 7.0.0
+        - 7.0.1
+        - 7.0.2
+        - 7.0.3
+        - 7.0.4
+        - 7.0.5
+        - 7.0.6
+        - 8.0.0-pre.3
+        - 8.0.0-pre.4
+        - 8.0.0
+        - 8.0.1
+        - 8.0.2
+        - 9.0.0-pre.1
+        - 9.0.0-pre.3
+        compatible:
+        - 5.0.5
+        - 5.0.6
+        - 5.0.7
+        - 5.0.8
+        - 5.0.9
+        - 5.0.10
+        verified: 5.0.10
+      dependencies:
+      - name: com.unity.2d.common
+        version: 4.0.4
+      - name: com.unity.mathematics
+        version: 1.1.0
+      - name: com.unity.2d.sprite
+        version: 1.0.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.2d.common
+        version: 4.0.4
+      - name: com.unity.2d.sprite
+        version: 1.0.0
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.uielementsnative
+        version: 1.0.0
+      - name: com.unity.mathematics
+        version: 1.1.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      keywords:
+      - 2d
+      - animation
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637750142350000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/2d.git
+        revision: 341b7316671d7e6703a7627f67c5fab262c4f1ac
+        path: 
     - packageId: com.unity.collab-proxy@1.5.7
       testable: 0
       isDirectDependency: 1
@@ -285,12 +461,12 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git
         revision: abb44f053e9a41d2e00e149e32a19bcec76e98b4
         path: 
-    - packageId: com.unity.ide.visualstudio@2.0.9
+    - packageId: com.unity.ide.visualstudio@2.0.16
       testable: 0
       isDirectDependency: 1
-      version: 2.0.9
+      version: 2.0.16
       source: 1
-      resolvedPath: C:\Users\1Blue\Unity_Foundations\Pair_Proj_2\Library\PackageCache\com.unity.ide.visualstudio@2.0.9
+      resolvedPath: C:\Users\1Blue\Unity_Foundations\Pair_Proj_2\Library\PackageCache\com.unity.ide.visualstudio@2.0.16
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -372,13 +548,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637580705480000000
+      datePublishedTicks: 637914298680000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.visualstudio.git
-        revision: c7cd4c6319806423b3d918b3e9599244e3993d41
+        revision: c01855ef6461b821ab0226135e96a4ee86de96be
         path: 
     - packageId: com.unity.ide.vscode@1.2.3
       testable: 0
@@ -2834,9 +3010,23 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 0.1.5-preview
+        - 0.1.6-preview
+        - 0.1.9-preview
+        - 1.0.0
+        - 1.0.5
         - 1.0.6
+        - 2.0.2
+        - 2.0.3
         compatible:
+        - 0.1.5-preview
+        - 0.1.6-preview
+        - 0.1.9-preview
+        - 1.0.0
+        - 1.0.5
         - 1.0.6
+        - 2.0.2
+        - 2.0.3
         verified: 1.0.6
       dependencies: []
       resolvedDependencies: []
@@ -2856,7 +3046,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637429759280000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -2885,12 +3075,42 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 0.0.12-preview.2
+        - 0.0.12-preview.5
+        - 0.0.12-preview.8
+        - 0.0.12-preview.10
+        - 0.0.12-preview.11
+        - 0.0.12-preview.13
+        - 0.0.12-preview.17
+        - 0.0.12-preview.19
+        - 0.0.12-preview.20
+        - 1.0.0-preview.1
+        - 1.0.1
+        - 1.1.0-preview.1
         - 1.1.0
         - 1.2.1
+        - 1.2.4
+        - 1.2.5
+        - 1.2.6
         compatible:
+        - 0.0.12-preview.2
+        - 0.0.12-preview.5
+        - 0.0.12-preview.8
+        - 0.0.12-preview.10
+        - 0.0.12-preview.11
+        - 0.0.12-preview.13
+        - 0.0.12-preview.17
+        - 0.0.12-preview.19
+        - 0.0.12-preview.20
+        - 1.0.0-preview.1
+        - 1.0.1
+        - 1.1.0-preview.1
         - 1.1.0
         - 1.2.1
-        verified: 1.2.1
+        - 1.2.4
+        - 1.2.5
+        - 1.2.6
+        verified: 1.2.6
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -2907,7 +3127,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 636984649280000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3248,7 +3468,7 @@ m_PackageAssets:
         email: 
         url: 
       category: 
-      type: library
+      type: 
       description: 'Newtonsoft Json for use in Unity projects and Unity packages.
         Currently synced to version 12.0.2.
 
@@ -3263,10 +3483,34 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 1.0.0-preview.2
+        - 1.0.0-preview.3
+        - 1.0.0-preview.4
+        - 1.0.1-preview.1
+        - 1.1.2
+        - 2.0.0-preview
+        - 2.0.0-preview.1
+        - 2.0.0-preview.2
         - 2.0.0
+        - 2.0.1-preview.1
+        - 2.0.2
+        - 3.0.1
+        - 3.0.2
         compatible:
+        - 1.0.0-preview.2
+        - 1.0.0-preview.3
+        - 1.0.0-preview.4
+        - 1.0.1-preview.1
+        - 1.1.2
+        - 2.0.0-preview
+        - 2.0.0-preview.1
+        - 2.0.0-preview.2
         - 2.0.0
-        verified: 2.0.0
+        - 2.0.1-preview.1
+        - 2.0.2
+        - 3.0.1
+        - 3.0.2
+        verified: 2.0.2
       dependencies: []
       resolvedDependencies: []
       keywords: []
@@ -3282,13 +3526,166 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637237898320000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
         revision: d2fd6ed876261bbd82f59199ad711e7667bf633a
+        path: 
+    - packageId: com.unity.2d.common@4.0.4
+      testable: 0
+      isDirectDependency: 0
+      version: 4.0.4
+      source: 1
+      resolvedPath: C:\Users\1Blue\Unity_Foundations\Pair_Proj_2\Library\PackageCache\com.unity.2d.common@4.0.4
+      assetPath: Packages/com.unity.2d.common
+      name: com.unity.2d.common
+      displayName: 2D Common
+      author:
+        name: 
+        email: 
+        url: 
+      category: 2D
+      type: 
+      description: 2D Common is a package that contains shared functionalities that
+        are used by most of the other 2D packages.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.9-preview.1
+        - 1.0.9-preview.2
+        - 1.0.10-preview
+        - 1.0.11-preview.1
+        - 1.1.0-preview.1
+        - 1.1.0-preview.2
+        - 1.2.0-preview.1
+        - 2.0.1
+        - 2.0.2
+        - 2.1.0
+        - 2.1.1
+        - 2.1.2
+        - 3.0.0
+        - 3.0.1
+        - 4.0.0
+        - 4.0.1
+        - 4.0.2
+        - 4.0.3
+        - 4.0.4
+        - 4.1.0
+        - 4.2.0
+        - 5.0.0-pre.1
+        - 5.0.0-pre.2
+        - 5.0.0
+        - 6.0.0-pre.2
+        - 6.0.0-pre.3
+        - 6.0.0-pre.4
+        - 6.0.0
+        - 6.0.1
+        - 6.0.2
+        - 6.0.3
+        - 7.0.0-pre.3
+        - 7.0.0-pre.4
+        - 7.0.0
+        - 8.0.0-pre.1
+        - 8.0.0-pre.2
+        compatible:
+        - 4.0.2
+        - 4.0.3
+        - 4.0.4
+        verified: 4.0.4
+      dependencies:
+      - name: com.unity.2d.sprite
+        version: 1.0.0
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.2d.sprite
+        version: 1.0.0
+      - name: com.unity.modules.uielements
+        version: 1.0.0
+      - name: com.unity.modules.ui
+        version: 1.0.0
+      - name: com.unity.modules.imgui
+        version: 1.0.0
+      - name: com.unity.modules.jsonserialize
+        version: 1.0.0
+      - name: com.unity.modules.uielementsnative
+        version: 1.0.0
+      keywords:
+      - 2d
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637750142160000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/2d.git
+        revision: 341b7316671d7e6703a7627f67c5fab262c4f1ac
+        path: 
+    - packageId: com.unity.2d.sprite@1.0.0
+      testable: 0
+      isDirectDependency: 0
+      version: 1.0.0
+      source: 2
+      resolvedPath: C:\Users\1Blue\Unity_Foundations\Pair_Proj_2\Library\PackageCache\com.unity.2d.sprite@1.0.0
+      assetPath: Packages/com.unity.2d.sprite
+      name: com.unity.2d.sprite
+      displayName: 2D Sprite
+      author:
+        name: 
+        email: 
+        url: 
+      category: 2D
+      type: 
+      description: Use Unity Sprite Editor Window to create and edit Sprite asset
+        properties like pivot, borders and Physics shape
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        compatible:
+        - 1.0.0
+        verified: 1.0.0
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - 2d
+      - sprite
+      - sprite editor window
+      registry:
+        id: 
+        name: 
+        url: 
+        scopes: []
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 0
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 0
+      documentationUrl: 
+      hasRepository: 0
+      repository:
+        type: 
+        url: 
+        revision: 
         path: 
     - packageId: com.unity.searcher@4.3.2
       testable: 0
@@ -3311,9 +3708,39 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 4.0.0-preview
+        - 4.0.0
+        - 4.0.7-preview
+        - 4.0.7
+        - 4.0.8-preview
+        - 4.0.9
+        - 4.1.0-preview
+        - 4.1.0
+        - 4.2.0
+        - 4.3.0
+        - 4.3.1
         - 4.3.2
+        - 4.6.0-preview
+        - 4.7.0-preview
+        - 4.9.1
+        - 4.9.2
         compatible:
+        - 4.0.0-preview
+        - 4.0.0
+        - 4.0.7-preview
+        - 4.0.7
+        - 4.0.8-preview
+        - 4.0.9
+        - 4.1.0-preview
+        - 4.1.0
+        - 4.2.0
+        - 4.3.0
+        - 4.3.1
         - 4.3.2
+        - 4.6.0-preview
+        - 4.7.0-preview
+        - 4.9.1
+        - 4.9.2
         verified: 4.3.2
       dependencies: []
       resolvedDependencies: []
@@ -3332,7 +3759,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637509898070000000
       documentationUrl: 
       hasRepository: 1
       repository:

@@ -22,5 +22,11 @@ public class PlayerMovement : MonoBehaviour
         
     }
 
+    void OnMovement(InputAction.CallbackContext context)
+    {
+        Vector2 recVector2 = context.ReadValue<Vector2>();
+        movementVector = new Vector3(recVector2.x, 0, recVector2.y);
+    }
+
    
 }

@@ -22,7 +22,7 @@ using UnityEngine;
                 Debug.Log("Collided with the Player!");
                 rend.enabled = false;
                 collider.enabled = false;
-                CollectableManager.Instance.AddOneToCount();
+                CollectableManager.Instance.addOneToCount();
 
             }
         }

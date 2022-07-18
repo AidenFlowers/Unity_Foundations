@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Scenes/Pair_2_Scene.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0

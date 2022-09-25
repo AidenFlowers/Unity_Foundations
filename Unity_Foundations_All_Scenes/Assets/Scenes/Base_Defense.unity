@@ -681,7 +681,7 @@ MonoBehaviour:
   - {fileID: 1837746868}
   - {fileID: 1645611677}
   enemyProjectileForce: 5
-  timeBetweenSpawns: 1
+  timeBetweenSpawns: 4
 --- !u!4 &983893809
 Transform:
   m_ObjectHideFlags: 0

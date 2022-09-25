@@ -1,0 +1,2 @@
+# Starting compiling PlayMode.dll
+/Users/aidendickson/Unity/2020.3.13f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-333560f707cb74325bb3e4954ba941a0

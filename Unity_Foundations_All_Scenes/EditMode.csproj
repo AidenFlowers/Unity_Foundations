@@ -47,8 +47,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\_Project\Scripts\Tests\EditMode\FiringPadTest.cs" />
-     <None Include="Assets\_Project\Scripts\Tests\EditMode\EditMode.asmdef" />
+     <Compile Include="Assets\_Project\Tests\EditMode\FiringPadTest.cs" />
+     <None Include="Assets\_Project\Tests\EditMode\EditMode.asmdef" />
  <Reference Include="UnityEngine">
  <HintPath>/Users/aidendickson/Unity/2020.3.13f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
  </Reference>

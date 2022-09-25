@@ -4,13 +4,19 @@ using UnityEngine;
 
 public class EnemySpawner : MonoBehaviour
 {
-    public GameObject enemyPrefab;
+    [SerializeField] private GameObject enemyPrefab;
     public Transform[] enemySpawnPoints;
     public float enemyProjectileForce;
 
     public float timeBetweenSpawns;
     float timer;
 
+    public void Construct(Object enemyPrefab)
+    {
+        enemyPrefab = enemyPrefab;
+            
+
+    }
     // Start is called before the first frame update
     void Start()
     {
